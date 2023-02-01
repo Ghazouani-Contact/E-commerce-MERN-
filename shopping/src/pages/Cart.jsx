@@ -12,7 +12,7 @@ import StripeCheckout from "react-stripe-checkout";
 import { useEffect, useState } from "react";
 import { userRequest } from "../requestMethods";
 import { useHistory } from "react-router-dom"; 
-const KEY = "pk_test_51KpKMKKiFHcDWbgDYOofinJqZLNWB0wUkfZILpLfcCTnOYTPOWnRpE0VSKhn4PtVuN9K7i2g6DPA9vkV3GSdzMd100jIXzLYbr";
+const KEY = ""
 
 const Container = styled.div``;
 
